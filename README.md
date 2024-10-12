@@ -1,14 +1,12 @@
 # React Invoice Generator
 
-React Invoice Generator allows you quickly make invoices and save them as PDF. [https://tuanpham-dev.github.io/react-invoice-generator/](https://tuanpham-dev.github.io/react-invoice-generator/)
-
-![react-invoice-generator](https://raw.githubusercontent.com/tuanpham-dev/react-invoice-generator/master/screenshot.png)
+React Invoice Generator allows you quickly make invoices and save them as PDF. [https://mohammed-alfez.github.io/react-invoice-generator/]
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn run`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
